@@ -1,0 +1,4 @@
+Username: josh-admin
+Password: ***********
+Policies: AdministratorAccess
+Notes: Full administrative access to all AWS services and resources.
