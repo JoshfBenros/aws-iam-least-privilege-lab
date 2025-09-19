@@ -1,0 +1,4 @@
+Username: auditor-user
+Password: ***********
+Policies: AmazonS3ReadOnlyAccess
+Notes: Read-only S3 access to demonstrate least privilege
